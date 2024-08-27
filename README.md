@@ -1,4 +1,4 @@
-# Vue.js Admin Console
+# Admin Console
 
 ## Overview
 
@@ -18,25 +18,7 @@ To set up and run this project locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/vue-admin-console.git
+   git clone https://github.com/Hawasandra1/admin-console.git
 
    Navigate to the Project Directory
 
-bash
-Copy code
-cd vue-admin-console
-Install Dependencies
-
-Make sure you have Node.js installed. Then run:
-
-bash
-Copy code
-npm install
-Run the Development Server
-
-Start the development server with:
-
-bash
-Copy code
-npm run serve
-The application will be accessible at http://localhost:8080 in your browser.
