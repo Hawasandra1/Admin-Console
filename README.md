@@ -23,9 +23,8 @@ To set up and run this project locally, follow these steps:
 4. Run the project: `npm run serve`
 
 
-## Challenges & Solutions
 
-## Challenges & Solutions
+# Challenges & Solutions
 
 ### Challenge 1: Ensuring a Consistent and Intuitive User Interface
 
