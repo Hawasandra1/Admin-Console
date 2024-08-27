@@ -24,7 +24,7 @@ To set up and run this project locally, follow these steps:
 
 
 
-# Challenges & Solutions
+### Challenges & Solutions
 
 ### Challenge 1: Ensuring a Consistent and Intuitive User Interface
 
