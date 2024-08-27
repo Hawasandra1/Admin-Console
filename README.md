@@ -4,11 +4,6 @@
 
 This is a frontend admin console application built with Vue.js and Vuetify. It is designed to manage and visualize data with a focus on modern web development practices. The project demonstrates proficiency in creating a responsive and user-friendly interface using Vue.js and Vuetify's Material Design components.
 
-## Features
-- **Data Visualization**: tables.
-- **Responsive Design**: Mobile and desktop friendly.
-- **Dynamic Dashboard**: Real-time updates and customizable widgets.
-
 ## Installation
 
 To set up and run this project locally, follow these steps:
