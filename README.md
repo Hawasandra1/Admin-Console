@@ -15,10 +15,10 @@ This is a Vue.js-based admin console application designed to manage and visualiz
 
 To set up and run this project locally, follow these steps:
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/Hawasandra1/admin-console.git
-
-   Navigate to the Project Directory
+ ## How to Run
+ 
+1. Clone the repository: `git clone https://github.com/Hawasandra1/Admin-Console.git`
+2. Navigate into the project directory: `cd Admin-Console`
+3. Install dependencies: `npm install`
+4. Run the project: `npm run serve`
 
