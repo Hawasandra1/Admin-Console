@@ -7,7 +7,7 @@ This is a Vue.js-based admin console application designed to manage and visualiz
 ## Features
 
 - **User Authentication**: Secure login and user management.
-- **Data Visualization**: Interactive charts and tables.
+- **Data Visualization**: tables.
 - **Responsive Design**: Mobile and desktop friendly.
 - **Dynamic Dashboard**: Real-time updates and customizable widgets.
 
